@@ -1,0 +1,13 @@
+langchain 
+langchain_community
+langchain_core
+langchain_google_genai 
+langchain_text_splitters
+unstructured[all-docs]
+transformers 
+sentence-transformers
+langchain_huggingface
+chromadb
+dotenv
+streamlit
+numpy
