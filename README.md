@@ -1,6 +1,5 @@
-# AI-ML-Research-Paper-Question-Answering-Using-RAG
+# 📄AI-ML-Research-Paper-Question-Answering-Using-RAG
 A RAG-based system that answers questions from uploaded AI/ML research papers.
-# 📄 AI/ML Research Paper Question Answering Using RAG
 
 ## 📌 Description
 A RAG-based system that answers questions from AI/ML research papers.  
